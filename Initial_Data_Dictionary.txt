@@ -1,0 +1,116 @@
+The format:
+S.No
+Feature_Name
+Type of Feature
+Description of Feature.
+
+
+1
+exp_in_breif
+Categorical
+It is brief description of customer’s experience with airline
+
+2
+Overall
+Numerical
+It is overall rating for the experience on the scale of 10
+
+3
+Name
+Categorical
+It is the name or alias of the customer/reviewer
+
+4
+Trip_Verified
+Categorical
+Its tells whether the trip was verified or not (Yes or No)
+
+5
+Content
+Categorical
+This gives the detailed description of the customer’s experience with airline
+
+6
+Aircraft
+Categorical
+It is type of the aircraft flown
+
+7
+Type of Traveller
+Categorical
+It is type of traveller (Solo Leisure, Family Leisure, Couple Leisure, Business)
+
+8
+Seat Type
+Categorical
+It is the class or type of the seat the passenger flown (Business Class or Economy Class)
+
+9
+Route
+Categorical
+It is route, the passenger flown detailing about origin and destination
+
+10
+Date Flown
+Categorical
+It is month and year of the travel
+
+11
+Seat Comfort
+Numerical
+It is the rating for seat comfort on the scale of 5
+
+12
+Cabin staff Service
+Numerical
+It is the rating for overall cabin service on the scale of 5
+
+13
+Ground Staff
+Numerical
+It is the rating for ground service provided by staff on the scale of 5
+
+14
+Value for money
+Numerical
+It is the rating for amount of money spent vs service provided on the scale on 5
+
+15
+Recommended
+Categorical
+Its tells whether the customer recommends the airline or not (Yes/No)
+
+16
+Food & Beverages
+Numerical
+It is the rating for food and beverages that are given the flight on the scale of 5
+
+17
+Inflight Entertainment
+Numerical
+It is the rating given for the inflight entertainment provided during travel on the scale of 5
+
+18
+Wi-Fi & Connectivity
+Numerical
+It is rating given for the internet services provided on the scale of 5
+
+19
+Airline
+Categorical
+It is the airline the customer is reviewing & travelled
+
+20
+Year_Flown
+Numerical
+It is the year of the travel
+
+21
+Month_Flown
+Categorical
+It is the month of the travel
+
+22
+stops
+Numerical
+It is the number of stops/layovers during the travel (0 for no layovers, 1 for one layover etc.)
